@@ -33,7 +33,8 @@ different price segments.
 
 
 **Use different models for regression**
-**1. using Decision tree regressor**
+**1.using Decision tree regressor**
+
 ![image](https://github.com/kintobgay2001/Machine-Learning-Project/assets/160617947/01e1f27d-6277-4e8a-b753-fda6b4cab574)
 
 
