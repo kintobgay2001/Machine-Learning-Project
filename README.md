@@ -46,4 +46,4 @@ different price segments.
 
 
 ** Conclusion**
-
+Model 1 and model 2 gives best yield which are "Decision Tree regressor and Random forest tree regressor".
